@@ -62,8 +62,6 @@ nav {
     background-color: #d10812;
 }
 
-/* Existing styles remain the same */
-
 .tv-shows,
 .movies,
 .new-popular,
@@ -78,8 +76,6 @@ nav {
 .my-list h2 {
     margin-bottom: 20px;
 }
-
-/* Existing styles remain the same */
 
 .content-container {
     display: flex;
@@ -97,11 +93,6 @@ nav {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
-
-/* Additional styling for other sections can be added here */
-
-
-
 footer {
     background-color: #000;
     color: #fff;
